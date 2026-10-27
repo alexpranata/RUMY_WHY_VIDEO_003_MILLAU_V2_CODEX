@@ -1,72 +1,50 @@
-# RUMY WHY 003 — Millau V2 QA
+# Millau V2 — simplified edit QA
 
-Date: 27 October 2026 (Asia/Jakarta).
+Owner correction: video footage, existing narration and English subtitles only. This supersedes the earlier added-graphics specification. No added banners, brand strips, technical callouts, yellow graphics or schematic scenes appear in this version. The previous graphics edit remains recoverable in Git history.
 
-**Release decision: REVIEW REQUIRED. Final PASS is withheld.**
+## Deliverables
 
-A real export exists and has passed the technical checks listed below. Final uninterrupted motion review, subjective audio playback and listening against the burned-in captions remain outstanding. This execution interface supplied decoding and local speech-recognition evidence, but no dependable way to perform a subjective listening review. No claim of having listened to the complete final program is made. Do not publish this as a fully approved final until those checks are completed.
+- `RUMY_WHY_003_MILLAU_SIMPLE.mp4`: current simplified export.
+- `RUMY_WHY_003_MILLAU_FINAL.mp4`: identical bytes at the canonical delivery path.
+- `captions_V2.srt`: matching 32 caption cues; adjacent cues no longer overlap.
+- `review_frames/`: actual decoded samples of the current export.
+- `output/draft/RUMY_WHY_003_V2_ROUGHCUT.mp4`: current footage/narration assembly before subtitle burn-in; no diagram placeholders.
+- `output/reports/timeline_alignment.csv`: current narration-aligned footage choices.
 
-## Delivered files
+## Technical validation
 
-- `output/final/RUMY_WHY_003_MILLAU_FINAL.mp4` — composed export with owner narration, English burned-in captions, screen-space labels and schematic animation.
-- `output/draft/RUMY_WHY_003_V2_ROUGHCUT.mp4` — pre-polish assembly using the same selection and timing. Schematic intervals are plain background placeholders here; use the composed export to review the explanatory animation.
-- `output/final/captions_V2.srt` — matching English caption sidecar.
-- `output/final/review_frames/` — actual decoded export frames and contact sheet.
-- `output/reports/asset_audit.json`, `shot_selection.md`, `timeline_alignment.csv` — source inventory, comparative choices and real-narration cue map.
-- `output/reports/vo_word_alignment.json` — acoustic word timings, not storyboard estimates.
-- `output/work/produce_v2.py`, `align.py`, `write_reports.py`, `verify_v2.py` — reproducible local editing/alignment/QA helpers, not changes to application source.
-
-## Actual measured media
-
-| Property | Measured result |
+| Check | Actual result |
 |---|---|
-| Container / video / audio duration | 64.300000 / 64.300000 / 64.300000 s |
-| Video | H.264, 1080 × 1920, yuv420p, 30/1 fps |
-| Actual decoded frames | 1929 |
-| Audio | AAC, 48 kHz, owner mono narration, 192 kb/s target |
-| Caption events | 32; at most two explicit lines; full script text verified by producer assertion |
-| Final measured loudness | -16.23 LUFS integrated |
-| Final measured true peak | -1.43 dBTP |
-| Final measured loudness range | 2.60 LU |
-| Full decode | Exit 0; all video/audio decoded to null |
-| Black detection | 0 segments at threshold 0.02 / minimum 0.1s |
-| Source integrity | All 30 original asset files unchanged by SHA-256 |
+| Container/video/audio duration | 64.300000 / 64.300000 / 64.300000 seconds |
+| Video | 1080 × 1920, H.264, yuv420p, 30fps, 1929 decoded frames |
+| Audio | Owner V2 narration, AAC, mono, 48kHz; no music/SFX or Flow clip audio |
+| Integrated loudness | -16.23 LUFS |
+| True peak | -1.43 dBTP |
+| Full video/audio decode | Exit 0 |
+| Detected black segments | 0 (0.02 threshold / 0.1s minimum) |
+| Subtitle cues | 32; max two lines, white with black outline, lower safe zone |
+| Asset integrity | 30 source files unchanged, SHA-256 verified |
 
-Final MP4 SHA-256: `65ba5c5cfd8d4198303933de440b63fc3419cc9cc41128431ce67bed27431e7b`.
+Current MP4 SHA-256: `7a4255b51f9194bc47c39746376141115bc00d077333e550bb3a1cf853b83d33`.
 
-Evidence: `final_ffprobe.json`, `final_validation.json`, `final_decode_audio_qc.log`, `source_hashes.json`, `source_integrity.json`. The final-audio loudness numbers above are the **input** measurement from the QC analysis of the exported AAC; the second normalization output in the diagnostic log was discarded, not used as the reported measurement.
+Measurements are retained in `final_ffprobe.json`, `final_validation.json` and `final_decode_audio_qc.log`. Loudness values above measure the actual encoded AAC, not the hypothetical normalized output of the diagnostic filter.
 
-## Narration and alignment
+## Editing choices and limits
 
-Only `assets/audio/voiceover_v2.mp3` is present. Its probed MP3 duration is 64.287347s, not the owner's earlier V1 generation duration of 68.4s. Existing V1 audio was not present and was not synthesized. Local unconstrained PocketSphinx recognition follows the V2 narrative (climbing forms, thirteen-foot lift, remaining pylons, ending “They pushed it there”), with normal recognizer substitutions documented verbatim in `vo_recognition.txt`. This supports the V2 selection; it is not perfect transcription or a substitute for hearing the original.
+The provided V2 MP3 measures 64.287347s; the export follows it at a 64.3s frame boundary. No narration synthesis, voice replacement, time stretching or video loops were used. Caption words are exactly from the V2 script; existing acoustic forced-alignment times are retained, with overlaps removed. These are still provisional timings pending listening review.
 
-Caption wording comes only from `docs/VOICEOVER_V2_RECOMMENDED.txt`; no recognizer errors were copied into captions. Pocketsphinx 5.0.4 forced alignment used the actual decoded 16 kHz waveform, with explicit pronunciations for missing formwork/Tarn/tensioned dictionary words. Timing remains provisional until listening review; no timing-accuracy guarantee is made. The cue CSV includes actual aligned words at each edit. Export duration is frame-quantized to 64.3s, without time-stretching narration or forcing a 72s target.
+Original S05 formwork footage now fills 23.0–28.4s instead of the climbing schematic. It shows the pier/formwork context but does not prove a complete physical climbing cycle. Original S08 support footage replaces the launch schematic at 43.8–46.2s. Original S09 and S10 show closure context/detail at 48.7–54.9s. Poor separated-formwork S06 V2 and later problematic S09 V2 footage remain excluded. New cuts use source footage at natural speed; technical geometry is illustrative CGI, not verified construction documentation.
 
-The VO was loudness-normalized with controlled true peak. There is no added music/SFX because no licensed audio files were supplied, and no Flow-clip sound was used. No speech was synthesized and no paid media APIs, external footage downloads or Google Flow logins were used.
+Only S07 has a framing adjustment: 160 source pixels cropped from the top, then aspect-preserving scale/fill, to remove a title already baked into the owner-supplied clip. No replacement text strip was added. Other footage fills the vertical frame. No blanket dark grade is applied.
 
-## Visual and engineering review
+Reviewed decoded frames cover the hook, valley, drilling, pier, formwork, former schematic intervals, steel assembly, translator, red supports, closure, raising mast and final bridge. The final contact sheet represents this simplified edit, not the previous graphic version.
 
-The audit executed `python3 scripts/check_assets.py` before editing. All 24 actual clips were probed and three frames per take inspected (early/middle/late); source contact sheets are retained. This establishes sampled visual evidence, not continuous motion certification. Several V2 sources run 8 seconds, rather than the nominal 6 seconds. No source is slowed or looped; ordinary conversion to the output 30fps grid is used.
+## Review status
 
-Most V2 takes are visibly brighter and more explanatory than the originals. Original S03 is retained for valley/pier context, and original S10 is preferred for the visible guarded closure gap. S06 V2 shows separated formwork/segments in sampled frames; its misleading growth footage is excluded and replaced by a staged, explicitly schematic hollow-pier/climbing illustration. S05's formwork is visible but a complete physical climb cycle is not verified; the scheme clarifies gain strength/climb/repeat. Later S09 V2 frames have questionable multiple-pylon/deck evolution; only its early 0.1–2.6s range is used, with a separate two-front launch-support schematic. S10 V2 is excluded because its open-girder camera path is weaker evidence of deck closure. S11 V2 early mast-raising footage is retained as CGI; its detailed rigging geometry is not certified. See every scene's scored selection and limitations in `shot_selection.md`.
+**REVIEW REQUIRED — no final PASS claim.** Technical decode and sampled frame review are complete. Uninterrupted motion and subjective listening/caption-sync review remain necessary before release. This execution interface provides local decoding and recognition, but not dependable subjective playback. Existing local recognition supports selection of V2 narration and does not constitute a full listening review. Source CGI geometry and intermediate morphing are not certified by sampled frames.
 
-Reviewed final samples cover hook, location, drilling, foundation, formwork, staged climb, ground assembly, hydraulic closeup, launch supports, closure, mast raising, completed bridge and ending. Captions are positioned in the upper safe zone, deliberately above the diagrams and technical labels; this differs from the suggested lower placement to preserve that hierarchy and keep mechanisms visible. White captions use a restrained dark outline. Fixed-position labels and graphics use brand yellow #FFD400 and white type. No unverified motion tracking or geometry-anchored measurement is claimed. All engineering overlays derive from the repository's verified-facts document, not measurements of generated footage.
+## Reproduce
 
-Construction order is foundations → hollow piers/formwork → steel assembled on both sides → incremental launch with red temporary supports and two leading stayed pylons (schematic) → deck closure → five remaining pylons → completion. The 245m pier and 343m maximum structural height are explicitly distinguished. The 4m/three-days rise is labeled conceptual time-lapse, never an instantaneous real-time cure. The 64-translator total is project-wide and the ~60cm cycle is schematic. Closure is dated 28 May 2004. No label asserts a single simultaneous 36,000t push. The final sampled payoff has no temporary red towers. Exact seven-pylon/stay topology of the AI source has not been independently established; the imagery is labeled CGI reconstruction throughout.
+Read `AGENTS.md` and this latest owner correction; preserve every asset. Use the existing isolated checkout; no worktree is needed. Run `/workspace/millau-tools/bin/python output/work/produce_simple.py` from the repository root to rebuild (it overwrites generated outputs only), then `output/work/verify_v2.py` and `output/work/qa_report.py` with the same interpreter. Check the actual narration before adapting the hardcoded 64.3s edit for any future audio.
 
-## Outstanding release checks and limits
-
-1. Play the full 64.3s exported MP4 with sound: verify owner VO identity, clarity, no clicks/harshness, all spoken words, the ending and caption synchronization. Adjust any local forced-alignment errors if heard.
-2. Review continuous motion at full and phone scale, particularly S03 cutaway geometry, S05 climbing action, S08 mechanism, early S09 support continuity, S10 closure and S11 raising rigging. Sampled review cannot rule out intermediate morphing or unsafe geometry.
-3. Final hero-shot geometry is illustrative, not a validated reconstruction. Any obvious geometry defect found in playback must be trimmed, schematically replaced or replaced with an improved owner-supplied take. No regeneration is required or performed automatically.
-4. Rights clearance rests on the owner-provided source provenance. No third-party stock or reference footage was added.
-
-The final MP4 is a review export at the requested delivery path. It must not be described as final PASS while the listening and uninterrupted-motion checks remain pending.
-
-## Reuse and environment
-
-The existing checkout is already isolated; do not create a worktree. Local helpers live under output/work and never write into assets. The rendering helper overwrites generated output paths when deliberately rerun; preserve wanted output versions first. `--reuse-parts` is only for this unchanged edit and verifies source hashes and expected frame counts; omit it if changing timeline or source choices.
-
-Run from the repository root with `/workspace/millau-tools/bin/python`: `output/work/align.py` (after 16kHz PCM decode), `output/work/produce_v2.py`, `output/work/write_reports.py`, then `output/work/verify_v2.py`. Read each helper before adapting a different VO: the current producer intentionally contains this edit's 64.3s timeline. FFmpeg and ffprobe are present; local Python packages are PocketSphinx 5.0.4 and Pillow 12.3.0. The nonfatal fontconfig cache warning did not prevent caption rendering; reviewed frames confirm the text is present.
-
-Reusable install_script and start_skill fields were saved successfully in the environment draft. Saving does not publish: review and save the environment settings and then publish the environment to retain this prepared state for future tasks. Fresh-task restoration has not been independently tested. Generated deliverables, QA evidence and small reproducible helpers are included in the GitHub download commit. Intermediate render parts and decoded working audio remain local; original project and asset files remain unchanged.
+`output/work/simple/subtitles.ass` contains only subtitle events. `produce_v2.py` and `write_reports.py` are archived helpers for the superseded graphic edit; do not use them for the current simple style. The earlier environment startup instructions also reference that archived edit; follow this correction and `produce_simple.py` instead. FFmpeg/ffprobe, Pillow 12.3.0 and existing PocketSphinx 5.0.4 alignment evidence are used. The harmless fontconfig cache warning did not prevent subtitle rendering.

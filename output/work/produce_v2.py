@@ -1,3 +1,4 @@
+# Archived graphics edit helper. Owner requested footage + VO + subtitles only; use produce_simple.py instead.
 from pathlib import Path
 import subprocess,json,re,csv,textwrap,math
 R=Path(__file__).resolve().parents[2]; W=R/'output/work'; REPORT=R/'output/reports'; F=R/'output/final'; D=R/'output/draft'

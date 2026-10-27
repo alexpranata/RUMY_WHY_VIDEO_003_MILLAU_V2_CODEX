@@ -20,6 +20,6 @@ for i,t in enumerate(times):
  im=Image.open(f);im.thumbnail((216,384));x=(i%5)*216;y=(i//5)*408;sheet.paste(im,(x,y+24));dr.text((x+5,y+5),f'{t:.1f}s',fill='white')
 sheet.save(F/'review_frames/contact_sheet.jpg')
 # Verify all caption events have max two manual lines and two-dimensional safe bounds established by the producer.
-ass=(R/'output/work/finish.ass').read_text();caps=[x for x in ass.splitlines() if x.startswith('Dialogue: 5,')];assert all(x.count('\\N')<=1 for x in caps)
+ass=(R/'output/work/simple/subtitles.ass').read_text();caps=[x for x in ass.splitlines() if x.startswith('Dialogue: 0,')];assert all(x.count('\\N')<=1 for x in caps)
 summary={'video_duration':v['duration'],'audio_duration':a['duration'],'container_duration':m['format']['duration'],'frames':v['nb_read_frames'],'caption_events':len(caps),'loudness':norm,'sha256':hashlib.sha256(movie.read_bytes()).hexdigest(),'source_files_verified':len(source),'decode_exit':qc.returncode,'black_segments':[x for x in qc.stderr.splitlines() if 'black_start:' in x]}
 (P/'final_validation.json').write_text(json.dumps(summary,indent=2));print(json.dumps(summary,indent=2))

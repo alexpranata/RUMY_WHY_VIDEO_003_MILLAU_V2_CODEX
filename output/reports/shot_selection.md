@@ -1,3 +1,10 @@
+# Current selection — simple footage/narration/subtitle cut
+
+Latest owner correction removes every added graphic, banner and schematic. Current exact source intervals are in timeline_alignment.csv. Replacements: S05 original for 23–28.4s formwork context; S08 original for 43.8–46.2s temporary support context; S09 original for 48.7–51.8s closure wide; S10 original for 51.8–54.9s closure detail. S07 V2 is cropped at the top to remove pre-existing baked-in title text. Other selected footage and narration timings are retained. No sources are overwritten or generated.
+
+The comparative source scores below remain useful, but previous recommendations for added schematics have been superseded by the owner's simple edit request. Geometry and action limitations are disclosed in QA_V2.md.
+
+<!-- PREVIOUS SCORING -->
 # Best-take selection — V2
 
 Evidence: all 24 actual source files were probed; three decoded frames per take (0.4s, midpoint, end minus 0.4s) were inspected in contact sheets. This is sampled visual review, not uninterrupted playback or verified motion tracking. Scores are provisional editorial judgments, not engineering certification.

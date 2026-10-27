@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,DejaVu Sans,48,&H00FFFFFF,&H00FFFFFF,&H00202020,&H90000000,-1,0,0,0,100,100,0,0,1,3,1,5,100,150,0,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.17,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}How did engineers build
+Dialogue: 0,0:00:01.17,0:00:03.27,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}an eight-hundred-foot\Nconcrete pier
+Dialogue: 0,0:00:03.27,0:00:05.85,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}in a valley... and put\Na highway on top?
+Dialogue: 0,0:00:06.32,0:00:08.26,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}France's Millau\NViaduct reaches
+Dialogue: 0,0:00:08.26,0:00:09.96,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}eleven hundred\Ntwenty-five feet
+Dialogue: 0,0:00:09.96,0:00:11.10,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}at its highest point.
+Dialogue: 0,0:00:11.42,0:00:12.98,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}First, engineers drilled
+Dialogue: 0,0:00:12.98,0:00:15.13,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}deep foundation\Nshafts into bedrock.
+Dialogue: 0,0:00:15.45,0:00:18.08,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}Then they built seven\Nhollow concrete piers
+Dialogue: 0,0:00:18.08,0:00:19.78,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}using self-climbing formwork.
+Dialogue: 0,0:00:20.01,0:00:21.39,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}Crews poured concrete,
+Dialogue: 0,0:00:21.39,0:00:22.93,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}waited for it to gain strength,
+Dialogue: 0,0:00:23.04,0:00:25.38,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}and raised the formwork\Nroughly thirteen feet
+Dialogue: 0,0:00:25.38,0:00:26.36,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}for the next section.
+Dialogue: 0,0:00:26.67,0:00:28.21,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}Again. And again.
+Dialogue: 0,0:00:28.47,0:00:30.41,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}But that only solved\Nhalf the problem.
+Dialogue: 0,0:00:30.59,0:00:33.00,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}The steel roadway still\Nhad to cross the valley.
+Dialogue: 0,0:00:33.27,0:00:35.26,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}So instead of\Nlifting it into place,
+Dialogue: 0,0:00:35.26,0:00:37.65,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}crews assembled the\Nsteel deck on land,
+Dialogue: 0,0:00:37.65,0:00:38.81,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}on both sides.
+Dialogue: 0,0:00:39.00,0:00:41.00,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}Sixty-four hydraulic\Ntranslators
+Dialogue: 0,0:00:41.00,0:00:43.59,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}pushed those sections\Nforward in small steps.
+Dialogue: 0,0:00:43.88,0:00:46.10,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}Temporary red towers\Nand stay cables
+Dialogue: 0,0:00:46.10,0:00:48.57,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}supported the advancing\Ndecks above the gaps.
+Dialogue: 0,0:00:48.79,0:00:50.92,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}After eighteen\Nlaunching operations,
+Dialogue: 0,0:00:50.92,0:00:53.29,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}the two halves met high\Nabove the Tarn River
+Dialogue: 0,0:00:53.29,0:00:54.78,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}in May two thousand four.
+Dialogue: 0,0:00:55.01,0:00:57.23,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}Engineers raised the\Nremaining steel pylons
+Dialogue: 0,0:00:57.23,0:00:58.58,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}and tensioned the cables.
+Dialogue: 0,0:00:58.79,0:01:00.80,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}By December, the\Nbridge was complete.
+Dialogue: 0,0:01:01.11,0:01:02.86,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}They didn't build\Nthe road in the sky.
+Dialogue: 0,0:01:03.11,0:01:04.30,Caption,,0,0,0,,{\q2\an5\pos(515,1370)\fad(50,70)}They pushed it there.
