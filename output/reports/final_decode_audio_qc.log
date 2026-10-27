@@ -4,8 +4,8 @@ Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/workspace/RUMY_WHY_VIDEO_003_MILLAU_V2
     minor_version   : 512
     compatible_brands: isomiso2avc1mp41
     encoder         : Lavf61.7.103
-  Duration: 00:01:04.30, start: 0.000000, bitrate: 6423 kb/s
-  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt709/iec61966-2-1, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 6221 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+  Duration: 00:01:04.30, start: 0.000000, bitrate: 6418 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt709/iec61966-2-1, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 6216 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
       Metadata:
         handler_name    : VideoHandler
         vendor_id       : [0][0][0][0]
@@ -34,7 +34,7 @@ Output #0, null, to 'pipe:':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.101 pcm_s16le
-[Parsed_loudnorm_0 @ 0x7fbf18002740] 
+[Parsed_loudnorm_0 @ 0x7fef80002740] 
 {
 	"input_i" : "-16.23",
 	"input_tp" : "-1.43",
@@ -47,5 +47,5 @@ Output #0, null, to 'pipe:':
 	"normalization_type" : "dynamic",
 	"target_offset" : "0.17"
 }
-[out#0/null @ 0x55ba7bd23a40] video:829KiB audio:24096KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
-frame= 1929 fps=444 q=-0.0 Lsize=N/A time=00:01:04.30 bitrate=N/A speed=14.8x    
+[out#0/null @ 0x55eca46bea40] video:829KiB audio:24096KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 1929 fps=438 q=-0.0 Lsize=N/A time=00:01:04.30 bitrate=N/A speed=14.6x    

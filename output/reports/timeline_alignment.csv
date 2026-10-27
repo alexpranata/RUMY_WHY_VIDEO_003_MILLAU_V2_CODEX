@@ -1,16 +1,16 @@
 scene,timeline_in_s,timeline_out_s,source,source_in_s,source_out_s,actual_audio_cue,adjustments
-S01,0,6,assets/video/S01_v2.mp4,0,6,how did engineers build an eight hundred foot concrete pier in a valley and put a highway on top,Cut only; no graphics
-S02,6,11.3,assets/video/S02_v2.mp4,0.2,5.5,france's millau viaduct reaches eleven hundred twenty five feet at its highest point,Cut only; no graphics
-S03,11.3,15.3,assets/video/S03_v2.mp4,0.2,4.2,first engineers drilled deep foundation shafts into bedrock,Cut only; no graphics
-S04,15.3,17.8,assets/video/S04_v2.mp4,0.3,2.8,then they built seven hollow concrete piers,Cut only; no graphics
-S05,17.8,23,assets/video/S05_v2.mp4,0.2,5.4,using self climbing formwork crews poured concrete waited for it to gain strength,Cut only; no graphics
-S06,23,28.4,assets/video/S05.mp4,0.2,5.6,and raised the formwork roughly thirteen feet for the next section again and again,Cut only; no graphics
-CONTEXT,28.4,33.2,assets/video/S03.mp4,0.5,5.3,but that only solved half the problem the steel roadway still had to cross the valley,Cut only; no graphics
+S01,0,6,assets/video/S01_v2.mp4,0,6,how did engineers build an eight hundred foot concrete pier in a valley and put a highway on top,Natural-speed footage; per-word highlighted captions
+S02,6,11.3,assets/video/S02_v2.mp4,0.2,5.5,france's millau viaduct reaches eleven hundred twenty five feet at its highest point,Natural-speed footage; per-word highlighted captions
+S03,11.3,15.3,assets/video/S03_v2.mp4,0.2,4.2,first engineers drilled deep foundation shafts into bedrock,Natural-speed footage; per-word highlighted captions
+S04,15.3,17.8,assets/video/S04_v2.mp4,0.3,2.8,then they built seven hollow concrete piers,Natural-speed footage; per-word highlighted captions
+S05,17.8,23,assets/video/S05_v2.mp4,0.2,5.4,using self climbing formwork crews poured concrete waited for it to gain strength,Natural-speed footage; per-word highlighted captions; tracked attention: formwork_jack
+S06,23,28.4,assets/video/S05.mp4,0.2,5.6,and raised the formwork roughly thirteen feet for the next section again and again,Natural-speed footage; per-word highlighted captions
+CONTEXT,28.4,33.2,assets/video/S03.mp4,0.5,5.3,but that only solved half the problem the steel roadway still had to cross the valley,Natural-speed footage; per-word highlighted captions
 S07,33.2,38.9,assets/video/S07_v2.mp4,0.15,5.85,so instead of lifting it into place crews assembled the steel deck on land on both sides,Crop 160px source top to remove existing source title
-S08,38.9,43.8,assets/video/S08_v2.mp4,0.3,5.2,sixty four hydraulic translators pushed those sections forward in small steps,Cut only; no graphics
-SUPPORTS,43.8,46.2,assets/video/S08.mp4,1,3.4,temporary red towers and stay cables supported,Cut only; no graphics
-S09,46.2,48.7,assets/video/S09_v2.mp4,0.1,2.6,the advancing decks above the gaps,Cut only; no graphics
-CLOSURE_WIDE,48.7,51.8,assets/video/S09.mp4,0.3,3.4,after eighteen launching operations the two halves met,Cut only; no graphics
-CLOSURE_DETAIL,51.8,54.9,assets/video/S10.mp4,0.15,3.25,high above the tarn river in may two thousand four,Cut only; no graphics
-S11,54.9,58.7,assets/video/S11_v2.mp4,0.3,4.1,engineers raised the remaining steel pylons and tensioned the cables,Cut only; no graphics
-S12,58.7,64.3,assets/video/S12_v2.mp4,2.3,7.9,by december the bridge was complete they didn't build the road in the sky they pushed it there,Cut only; no graphics
+S08,38.9,43.8,assets/video/S08_v2.mp4,0.3,5.2,sixty four hydraulic translators pushed those sections forward in small steps,Natural-speed footage; per-word highlighted captions; tracked attention: translator
+SUPPORTS,43.8,46.2,assets/video/S08.mp4,1,3.4,temporary red towers and stay cables supported,Natural-speed footage; per-word highlighted captions; tracked attention: red_support
+S09,46.2,48.7,assets/video/S09_v2.mp4,0.1,2.6,the advancing decks above the gaps,Natural-speed footage; per-word highlighted captions
+CLOSURE_WIDE,48.7,51.8,assets/video/S09.mp4,0.3,3.4,after eighteen launching operations the two halves met,Natural-speed footage; per-word highlighted captions
+CLOSURE_DETAIL,51.8,54.9,assets/video/S10.mp4,0.15,3.25,high above the tarn river in may two thousand four,Natural-speed footage; per-word highlighted captions
+S11,54.9,58.7,assets/video/S11_v2.mp4,0.3,4.1,engineers raised the remaining steel pylons and tensioned the cables,Natural-speed footage; per-word highlighted captions; tracked attention: mast_tip
+S12,58.7,64.3,assets/video/S12_v2.mp4,2.3,7.9,by december the bridge was complete they didn't build the road in the sky they pushed it there,Natural-speed footage; per-word highlighted captions

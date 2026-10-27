@@ -1,0 +1,1514 @@
+[
+  {
+    "spoken": "How",
+    "display": "HOW",
+    "start": 0.0,
+    "spoken_end": 0.2,
+    "start_frame": 0,
+    "end_frame": 6,
+    "highlight": false
+  },
+  {
+    "spoken": "did",
+    "display": "DID",
+    "start": 0.2,
+    "spoken_end": 0.37,
+    "start_frame": 6,
+    "end_frame": 11,
+    "highlight": false
+  },
+  {
+    "spoken": "engineers",
+    "display": "ENGINEERS",
+    "start": 0.37,
+    "spoken_end": 0.94,
+    "start_frame": 11,
+    "end_frame": 28,
+    "highlight": true
+  },
+  {
+    "spoken": "build",
+    "display": "BUILD",
+    "start": 0.94,
+    "spoken_end": 1.17,
+    "start_frame": 28,
+    "end_frame": 35,
+    "highlight": true
+  },
+  {
+    "spoken": "an",
+    "display": "AN",
+    "start": 1.17,
+    "spoken_end": 1.27,
+    "start_frame": 35,
+    "end_frame": 38,
+    "highlight": false
+  },
+  {
+    "spoken": "eight-hundred-foot",
+    "display": "800-FOOT",
+    "start": 1.27,
+    "spoken_end": 2.27,
+    "start_frame": 38,
+    "end_frame": 68,
+    "highlight": true
+  },
+  {
+    "spoken": "concrete",
+    "display": "CONCRETE",
+    "start": 2.27,
+    "spoken_end": 2.87,
+    "start_frame": 68,
+    "end_frame": 86,
+    "highlight": true
+  },
+  {
+    "spoken": "pier",
+    "display": "PIER",
+    "start": 2.87,
+    "spoken_end": 3.27,
+    "start_frame": 86,
+    "end_frame": 98,
+    "highlight": true
+  },
+  {
+    "spoken": "in",
+    "display": "IN",
+    "start": 3.27,
+    "spoken_end": 3.38,
+    "start_frame": 98,
+    "end_frame": 101,
+    "highlight": false
+  },
+  {
+    "spoken": "a",
+    "display": "A",
+    "start": 3.38,
+    "spoken_end": 3.43,
+    "start_frame": 101,
+    "end_frame": 103,
+    "highlight": false
+  },
+  {
+    "spoken": "valley...",
+    "display": "VALLEY...",
+    "start": 3.43,
+    "spoken_end": 4.0,
+    "start_frame": 103,
+    "end_frame": 123,
+    "highlight": false
+  },
+  {
+    "spoken": "and",
+    "display": "AND",
+    "start": 4.42,
+    "spoken_end": 4.54,
+    "start_frame": 133,
+    "end_frame": 136,
+    "highlight": false
+  },
+  {
+    "spoken": "put",
+    "display": "PUT",
+    "start": 4.54,
+    "spoken_end": 4.7,
+    "start_frame": 136,
+    "end_frame": 141,
+    "highlight": false
+  },
+  {
+    "spoken": "a",
+    "display": "A",
+    "start": 4.7,
+    "spoken_end": 4.74,
+    "start_frame": 141,
+    "end_frame": 142,
+    "highlight": false
+  },
+  {
+    "spoken": "highway",
+    "display": "HIGHWAY",
+    "start": 4.74,
+    "spoken_end": 5.26,
+    "start_frame": 142,
+    "end_frame": 158,
+    "highlight": false
+  },
+  {
+    "spoken": "on",
+    "display": "ON",
+    "start": 5.26,
+    "spoken_end": 5.39,
+    "start_frame": 158,
+    "end_frame": 162,
+    "highlight": false
+  },
+  {
+    "spoken": "top?",
+    "display": "TOP?",
+    "start": 5.39,
+    "spoken_end": 5.78,
+    "start_frame": 162,
+    "end_frame": 176,
+    "highlight": false
+  },
+  {
+    "spoken": "France's",
+    "display": "FRANCE'S",
+    "start": 6.32,
+    "spoken_end": 6.83,
+    "start_frame": 190,
+    "end_frame": 205,
+    "highlight": false
+  },
+  {
+    "spoken": "Millau",
+    "display": "MILLAU",
+    "start": 6.83,
+    "spoken_end": 7.22,
+    "start_frame": 205,
+    "end_frame": 217,
+    "highlight": true
+  },
+  {
+    "spoken": "Viaduct",
+    "display": "VIADUCT",
+    "start": 7.22,
+    "spoken_end": 7.84,
+    "start_frame": 217,
+    "end_frame": 235,
+    "highlight": true
+  },
+  {
+    "spoken": "reaches",
+    "display": "REACHES",
+    "start": 7.84,
+    "spoken_end": 8.26,
+    "start_frame": 235,
+    "end_frame": 248,
+    "highlight": false
+  },
+  {
+    "spoken": "eleven hundred twenty-five",
+    "display": "1,125",
+    "start": 8.26,
+    "spoken_end": 9.57,
+    "start_frame": 248,
+    "end_frame": 287,
+    "highlight": true
+  },
+  {
+    "spoken": "feet",
+    "display": "FEET",
+    "start": 9.57,
+    "spoken_end": 9.96,
+    "start_frame": 287,
+    "end_frame": 299,
+    "highlight": false
+  },
+  {
+    "spoken": "at",
+    "display": "AT",
+    "start": 9.96,
+    "spoken_end": 10.07,
+    "start_frame": 299,
+    "end_frame": 302,
+    "highlight": false
+  },
+  {
+    "spoken": "its",
+    "display": "ITS",
+    "start": 10.07,
+    "spoken_end": 10.19,
+    "start_frame": 302,
+    "end_frame": 306,
+    "highlight": false
+  },
+  {
+    "spoken": "highest",
+    "display": "HIGHEST",
+    "start": 10.19,
+    "spoken_end": 10.61,
+    "start_frame": 306,
+    "end_frame": 318,
+    "highlight": false
+  },
+  {
+    "spoken": "point.",
+    "display": "POINT.",
+    "start": 10.61,
+    "spoken_end": 11.03,
+    "start_frame": 318,
+    "end_frame": 334,
+    "highlight": false
+  },
+  {
+    "spoken": "First,",
+    "display": "FIRST,",
+    "start": 11.42,
+    "spoken_end": 12.0,
+    "start_frame": 343,
+    "end_frame": 360,
+    "highlight": false
+  },
+  {
+    "spoken": "engineers",
+    "display": "ENGINEERS",
+    "start": 12.0,
+    "spoken_end": 12.63,
+    "start_frame": 360,
+    "end_frame": 379,
+    "highlight": true
+  },
+  {
+    "spoken": "drilled",
+    "display": "DRILLED",
+    "start": 12.63,
+    "spoken_end": 12.98,
+    "start_frame": 379,
+    "end_frame": 389,
+    "highlight": true
+  },
+  {
+    "spoken": "deep",
+    "display": "DEEP",
+    "start": 12.98,
+    "spoken_end": 13.21,
+    "start_frame": 389,
+    "end_frame": 396,
+    "highlight": false
+  },
+  {
+    "spoken": "foundation",
+    "display": "FOUNDATION",
+    "start": 13.21,
+    "spoken_end": 13.81,
+    "start_frame": 396,
+    "end_frame": 414,
+    "highlight": true
+  },
+  {
+    "spoken": "shafts",
+    "display": "SHAFTS",
+    "start": 13.81,
+    "spoken_end": 14.26,
+    "start_frame": 414,
+    "end_frame": 428,
+    "highlight": false
+  },
+  {
+    "spoken": "into",
+    "display": "INTO",
+    "start": 14.26,
+    "spoken_end": 14.48,
+    "start_frame": 428,
+    "end_frame": 434,
+    "highlight": false
+  },
+  {
+    "spoken": "bedrock.",
+    "display": "BEDROCK.",
+    "start": 14.48,
+    "spoken_end": 15.06,
+    "start_frame": 434,
+    "end_frame": 454,
+    "highlight": true
+  },
+  {
+    "spoken": "Then",
+    "display": "THEN",
+    "start": 15.45,
+    "spoken_end": 15.88,
+    "start_frame": 464,
+    "end_frame": 476,
+    "highlight": false
+  },
+  {
+    "spoken": "they",
+    "display": "THEY",
+    "start": 15.88,
+    "spoken_end": 16.02,
+    "start_frame": 476,
+    "end_frame": 481,
+    "highlight": false
+  },
+  {
+    "spoken": "built",
+    "display": "BUILT",
+    "start": 16.02,
+    "spoken_end": 16.23,
+    "start_frame": 481,
+    "end_frame": 487,
+    "highlight": false
+  },
+  {
+    "spoken": "seven",
+    "display": "7",
+    "start": 16.23,
+    "spoken_end": 16.66,
+    "start_frame": 487,
+    "end_frame": 500,
+    "highlight": true
+  },
+  {
+    "spoken": "hollow",
+    "display": "HOLLOW",
+    "start": 16.66,
+    "spoken_end": 17.08,
+    "start_frame": 500,
+    "end_frame": 512,
+    "highlight": true
+  },
+  {
+    "spoken": "concrete",
+    "display": "CONCRETE",
+    "start": 17.08,
+    "spoken_end": 17.59,
+    "start_frame": 512,
+    "end_frame": 528,
+    "highlight": true
+  },
+  {
+    "spoken": "piers",
+    "display": "PIERS",
+    "start": 17.59,
+    "spoken_end": 18.08,
+    "start_frame": 528,
+    "end_frame": 542,
+    "highlight": true
+  },
+  {
+    "spoken": "using",
+    "display": "USING",
+    "start": 18.08,
+    "spoken_end": 18.35,
+    "start_frame": 542,
+    "end_frame": 550,
+    "highlight": false
+  },
+  {
+    "spoken": "self-climbing",
+    "display": "SELF-CLIMBING",
+    "start": 18.35,
+    "spoken_end": 19.09,
+    "start_frame": 550,
+    "end_frame": 573,
+    "highlight": true
+  },
+  {
+    "spoken": "formwork.",
+    "display": "FORMWORK.",
+    "start": 19.09,
+    "spoken_end": 19.71,
+    "start_frame": 573,
+    "end_frame": 594,
+    "highlight": true
+  },
+  {
+    "spoken": "Crews",
+    "display": "CREWS",
+    "start": 20.01,
+    "spoken_end": 20.35,
+    "start_frame": 600,
+    "end_frame": 610,
+    "highlight": false
+  },
+  {
+    "spoken": "poured",
+    "display": "POURED",
+    "start": 20.35,
+    "spoken_end": 20.67,
+    "start_frame": 610,
+    "end_frame": 620,
+    "highlight": false
+  },
+  {
+    "spoken": "concrete,",
+    "display": "CONCRETE,",
+    "start": 20.67,
+    "spoken_end": 21.39,
+    "start_frame": 620,
+    "end_frame": 642,
+    "highlight": true
+  },
+  {
+    "spoken": "waited",
+    "display": "WAITED",
+    "start": 21.39,
+    "spoken_end": 21.72,
+    "start_frame": 642,
+    "end_frame": 652,
+    "highlight": false
+  },
+  {
+    "spoken": "for",
+    "display": "FOR",
+    "start": 21.72,
+    "spoken_end": 21.9,
+    "start_frame": 652,
+    "end_frame": 657,
+    "highlight": false
+  },
+  {
+    "spoken": "it",
+    "display": "IT",
+    "start": 21.9,
+    "spoken_end": 21.98,
+    "start_frame": 657,
+    "end_frame": 659,
+    "highlight": false
+  },
+  {
+    "spoken": "to",
+    "display": "TO",
+    "start": 21.98,
+    "spoken_end": 22.05,
+    "start_frame": 659,
+    "end_frame": 662,
+    "highlight": false
+  },
+  {
+    "spoken": "gain",
+    "display": "GAIN",
+    "start": 22.05,
+    "spoken_end": 22.3,
+    "start_frame": 662,
+    "end_frame": 669,
+    "highlight": false
+  },
+  {
+    "spoken": "strength,",
+    "display": "STRENGTH,",
+    "start": 22.3,
+    "spoken_end": 22.86,
+    "start_frame": 669,
+    "end_frame": 688,
+    "highlight": true
+  },
+  {
+    "spoken": "and",
+    "display": "AND",
+    "start": 23.04,
+    "spoken_end": 23.18,
+    "start_frame": 691,
+    "end_frame": 695,
+    "highlight": false
+  },
+  {
+    "spoken": "raised",
+    "display": "RAISED",
+    "start": 23.18,
+    "spoken_end": 23.52,
+    "start_frame": 695,
+    "end_frame": 706,
+    "highlight": true
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 23.52,
+    "spoken_end": 23.59,
+    "start_frame": 706,
+    "end_frame": 708,
+    "highlight": false
+  },
+  {
+    "spoken": "formwork",
+    "display": "FORMWORK",
+    "start": 23.59,
+    "spoken_end": 24.15,
+    "start_frame": 708,
+    "end_frame": 724,
+    "highlight": true
+  },
+  {
+    "spoken": "roughly",
+    "display": "ROUGHLY",
+    "start": 24.15,
+    "spoken_end": 24.44,
+    "start_frame": 724,
+    "end_frame": 733,
+    "highlight": false
+  },
+  {
+    "spoken": "thirteen",
+    "display": "13",
+    "start": 24.44,
+    "spoken_end": 25.02,
+    "start_frame": 733,
+    "end_frame": 751,
+    "highlight": true
+  },
+  {
+    "spoken": "feet",
+    "display": "FEET",
+    "start": 25.02,
+    "spoken_end": 25.38,
+    "start_frame": 751,
+    "end_frame": 761,
+    "highlight": false
+  },
+  {
+    "spoken": "for",
+    "display": "FOR",
+    "start": 25.38,
+    "spoken_end": 25.49,
+    "start_frame": 761,
+    "end_frame": 765,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 25.49,
+    "spoken_end": 25.57,
+    "start_frame": 765,
+    "end_frame": 767,
+    "highlight": false
+  },
+  {
+    "spoken": "next",
+    "display": "NEXT",
+    "start": 25.57,
+    "spoken_end": 25.82,
+    "start_frame": 767,
+    "end_frame": 775,
+    "highlight": false
+  },
+  {
+    "spoken": "section.",
+    "display": "SECTION.",
+    "start": 25.82,
+    "spoken_end": 26.29,
+    "start_frame": 775,
+    "end_frame": 791,
+    "highlight": false
+  },
+  {
+    "spoken": "Again.",
+    "display": "AGAIN.",
+    "start": 26.67,
+    "spoken_end": 27.14,
+    "start_frame": 800,
+    "end_frame": 817,
+    "highlight": true
+  },
+  {
+    "spoken": "And",
+    "display": "AND",
+    "start": 27.53,
+    "spoken_end": 27.71,
+    "start_frame": 826,
+    "end_frame": 831,
+    "highlight": false
+  },
+  {
+    "spoken": "again.",
+    "display": "AGAIN.",
+    "start": 27.71,
+    "spoken_end": 28.14,
+    "start_frame": 831,
+    "end_frame": 847,
+    "highlight": true
+  },
+  {
+    "spoken": "But",
+    "display": "BUT",
+    "start": 28.47,
+    "spoken_end": 28.63,
+    "start_frame": 854,
+    "end_frame": 859,
+    "highlight": false
+  },
+  {
+    "spoken": "that",
+    "display": "THAT",
+    "start": 28.63,
+    "spoken_end": 28.81,
+    "start_frame": 859,
+    "end_frame": 864,
+    "highlight": false
+  },
+  {
+    "spoken": "only",
+    "display": "ONLY",
+    "start": 28.81,
+    "spoken_end": 29.0,
+    "start_frame": 864,
+    "end_frame": 870,
+    "highlight": false
+  },
+  {
+    "spoken": "solved",
+    "display": "SOLVED",
+    "start": 29.0,
+    "spoken_end": 29.31,
+    "start_frame": 870,
+    "end_frame": 879,
+    "highlight": false
+  },
+  {
+    "spoken": "half",
+    "display": "HALF",
+    "start": 29.31,
+    "spoken_end": 29.68,
+    "start_frame": 879,
+    "end_frame": 890,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 29.68,
+    "spoken_end": 29.75,
+    "start_frame": 890,
+    "end_frame": 892,
+    "highlight": false
+  },
+  {
+    "spoken": "problem.",
+    "display": "PROBLEM.",
+    "start": 29.75,
+    "spoken_end": 30.34,
+    "start_frame": 892,
+    "end_frame": 913,
+    "highlight": false
+  },
+  {
+    "spoken": "The",
+    "display": "THE",
+    "start": 30.59,
+    "spoken_end": 30.66,
+    "start_frame": 918,
+    "end_frame": 920,
+    "highlight": false
+  },
+  {
+    "spoken": "steel",
+    "display": "STEEL",
+    "start": 30.66,
+    "spoken_end": 30.99,
+    "start_frame": 920,
+    "end_frame": 930,
+    "highlight": true
+  },
+  {
+    "spoken": "roadway",
+    "display": "ROADWAY",
+    "start": 30.99,
+    "spoken_end": 31.45,
+    "start_frame": 930,
+    "end_frame": 944,
+    "highlight": true
+  },
+  {
+    "spoken": "still",
+    "display": "STILL",
+    "start": 31.45,
+    "spoken_end": 31.82,
+    "start_frame": 944,
+    "end_frame": 955,
+    "highlight": false
+  },
+  {
+    "spoken": "had",
+    "display": "HAD",
+    "start": 31.82,
+    "spoken_end": 31.97,
+    "start_frame": 955,
+    "end_frame": 959,
+    "highlight": false
+  },
+  {
+    "spoken": "to",
+    "display": "TO",
+    "start": 31.97,
+    "spoken_end": 32.04,
+    "start_frame": 959,
+    "end_frame": 961,
+    "highlight": false
+  },
+  {
+    "spoken": "cross",
+    "display": "CROSS",
+    "start": 32.04,
+    "spoken_end": 32.37,
+    "start_frame": 961,
+    "end_frame": 971,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 32.37,
+    "spoken_end": 32.46,
+    "start_frame": 971,
+    "end_frame": 974,
+    "highlight": false
+  },
+  {
+    "spoken": "valley.",
+    "display": "VALLEY.",
+    "start": 32.46,
+    "spoken_end": 32.93,
+    "start_frame": 974,
+    "end_frame": 991,
+    "highlight": false
+  },
+  {
+    "spoken": "So",
+    "display": "SO",
+    "start": 33.27,
+    "spoken_end": 33.58,
+    "start_frame": 998,
+    "end_frame": 1007,
+    "highlight": false
+  },
+  {
+    "spoken": "instead",
+    "display": "INSTEAD",
+    "start": 33.58,
+    "spoken_end": 33.92,
+    "start_frame": 1007,
+    "end_frame": 1018,
+    "highlight": false
+  },
+  {
+    "spoken": "of",
+    "display": "OF",
+    "start": 33.92,
+    "spoken_end": 34.0,
+    "start_frame": 1018,
+    "end_frame": 1020,
+    "highlight": false
+  },
+  {
+    "spoken": "lifting",
+    "display": "LIFTING",
+    "start": 34.0,
+    "spoken_end": 34.51,
+    "start_frame": 1020,
+    "end_frame": 1035,
+    "highlight": false
+  },
+  {
+    "spoken": "it",
+    "display": "IT",
+    "start": 34.51,
+    "spoken_end": 34.57,
+    "start_frame": 1035,
+    "end_frame": 1037,
+    "highlight": false
+  },
+  {
+    "spoken": "into",
+    "display": "INTO",
+    "start": 34.57,
+    "spoken_end": 34.76,
+    "start_frame": 1037,
+    "end_frame": 1043,
+    "highlight": false
+  },
+  {
+    "spoken": "place,",
+    "display": "PLACE,",
+    "start": 34.76,
+    "spoken_end": 35.26,
+    "start_frame": 1043,
+    "end_frame": 1058,
+    "highlight": false
+  },
+  {
+    "spoken": "crews",
+    "display": "CREWS",
+    "start": 35.26,
+    "spoken_end": 35.77,
+    "start_frame": 1058,
+    "end_frame": 1073,
+    "highlight": false
+  },
+  {
+    "spoken": "assembled",
+    "display": "ASSEMBLED",
+    "start": 35.77,
+    "spoken_end": 36.21,
+    "start_frame": 1073,
+    "end_frame": 1086,
+    "highlight": true
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 36.21,
+    "spoken_end": 36.27,
+    "start_frame": 1086,
+    "end_frame": 1088,
+    "highlight": false
+  },
+  {
+    "spoken": "steel",
+    "display": "STEEL",
+    "start": 36.27,
+    "spoken_end": 36.63,
+    "start_frame": 1088,
+    "end_frame": 1099,
+    "highlight": true
+  },
+  {
+    "spoken": "deck",
+    "display": "DECK",
+    "start": 36.63,
+    "spoken_end": 36.87,
+    "start_frame": 1099,
+    "end_frame": 1106,
+    "highlight": true
+  },
+  {
+    "spoken": "on",
+    "display": "ON",
+    "start": 36.87,
+    "spoken_end": 37.05,
+    "start_frame": 1106,
+    "end_frame": 1112,
+    "highlight": false
+  },
+  {
+    "spoken": "land,",
+    "display": "LAND,",
+    "start": 37.05,
+    "spoken_end": 37.65,
+    "start_frame": 1112,
+    "end_frame": 1130,
+    "highlight": true
+  },
+  {
+    "spoken": "on",
+    "display": "ON",
+    "start": 37.65,
+    "spoken_end": 37.84,
+    "start_frame": 1130,
+    "end_frame": 1135,
+    "highlight": false
+  },
+  {
+    "spoken": "both",
+    "display": "BOTH",
+    "start": 37.84,
+    "spoken_end": 38.13,
+    "start_frame": 1135,
+    "end_frame": 1144,
+    "highlight": false
+  },
+  {
+    "spoken": "sides.",
+    "display": "SIDES.",
+    "start": 38.13,
+    "spoken_end": 38.74,
+    "start_frame": 1144,
+    "end_frame": 1165,
+    "highlight": true
+  },
+  {
+    "spoken": "Sixty-four",
+    "display": "64",
+    "start": 39.0,
+    "spoken_end": 39.77,
+    "start_frame": 1170,
+    "end_frame": 1193,
+    "highlight": true
+  },
+  {
+    "spoken": "hydraulic",
+    "display": "HYDRAULIC",
+    "start": 39.77,
+    "spoken_end": 40.3,
+    "start_frame": 1193,
+    "end_frame": 1209,
+    "highlight": true
+  },
+  {
+    "spoken": "translators",
+    "display": "TRANSLATORS",
+    "start": 40.3,
+    "spoken_end": 41.0,
+    "start_frame": 1209,
+    "end_frame": 1230,
+    "highlight": true
+  },
+  {
+    "spoken": "pushed",
+    "display": "PUSHED",
+    "start": 41.0,
+    "spoken_end": 41.37,
+    "start_frame": 1230,
+    "end_frame": 1241,
+    "highlight": true
+  },
+  {
+    "spoken": "those",
+    "display": "THOSE",
+    "start": 41.37,
+    "spoken_end": 41.55,
+    "start_frame": 1241,
+    "end_frame": 1246,
+    "highlight": false
+  },
+  {
+    "spoken": "sections",
+    "display": "SECTIONS",
+    "start": 41.55,
+    "spoken_end": 42.02,
+    "start_frame": 1246,
+    "end_frame": 1261,
+    "highlight": false
+  },
+  {
+    "spoken": "forward",
+    "display": "FORWARD",
+    "start": 42.02,
+    "spoken_end": 42.45,
+    "start_frame": 1261,
+    "end_frame": 1274,
+    "highlight": false
+  },
+  {
+    "spoken": "in",
+    "display": "IN",
+    "start": 42.45,
+    "spoken_end": 42.57,
+    "start_frame": 1274,
+    "end_frame": 1277,
+    "highlight": false
+  },
+  {
+    "spoken": "small",
+    "display": "SMALL",
+    "start": 42.57,
+    "spoken_end": 42.93,
+    "start_frame": 1277,
+    "end_frame": 1288,
+    "highlight": false
+  },
+  {
+    "spoken": "steps.",
+    "display": "STEPS.",
+    "start": 42.93,
+    "spoken_end": 43.52,
+    "start_frame": 1288,
+    "end_frame": 1308,
+    "highlight": false
+  },
+  {
+    "spoken": "Temporary",
+    "display": "TEMPORARY",
+    "start": 43.88,
+    "spoken_end": 44.41,
+    "start_frame": 1316,
+    "end_frame": 1332,
+    "highlight": true
+  },
+  {
+    "spoken": "red",
+    "display": "RED",
+    "start": 44.41,
+    "spoken_end": 44.72,
+    "start_frame": 1332,
+    "end_frame": 1342,
+    "highlight": true
+  },
+  {
+    "spoken": "towers",
+    "display": "TOWERS",
+    "start": 44.72,
+    "spoken_end": 45.22,
+    "start_frame": 1342,
+    "end_frame": 1357,
+    "highlight": true
+  },
+  {
+    "spoken": "and",
+    "display": "AND",
+    "start": 45.22,
+    "spoken_end": 45.35,
+    "start_frame": 1357,
+    "end_frame": 1360,
+    "highlight": false
+  },
+  {
+    "spoken": "stay",
+    "display": "STAY",
+    "start": 45.35,
+    "spoken_end": 45.65,
+    "start_frame": 1360,
+    "end_frame": 1370,
+    "highlight": false
+  },
+  {
+    "spoken": "cables",
+    "display": "CABLES",
+    "start": 45.65,
+    "spoken_end": 46.1,
+    "start_frame": 1370,
+    "end_frame": 1383,
+    "highlight": true
+  },
+  {
+    "spoken": "supported",
+    "display": "SUPPORTED",
+    "start": 46.1,
+    "spoken_end": 46.61,
+    "start_frame": 1383,
+    "end_frame": 1398,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 46.61,
+    "spoken_end": 46.71,
+    "start_frame": 1398,
+    "end_frame": 1401,
+    "highlight": false
+  },
+  {
+    "spoken": "advancing",
+    "display": "ADVANCING",
+    "start": 46.71,
+    "spoken_end": 47.22,
+    "start_frame": 1401,
+    "end_frame": 1417,
+    "highlight": false
+  },
+  {
+    "spoken": "decks",
+    "display": "DECKS",
+    "start": 47.22,
+    "spoken_end": 47.54,
+    "start_frame": 1417,
+    "end_frame": 1426,
+    "highlight": false
+  },
+  {
+    "spoken": "above",
+    "display": "ABOVE",
+    "start": 47.54,
+    "spoken_end": 47.86,
+    "start_frame": 1426,
+    "end_frame": 1436,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 47.86,
+    "spoken_end": 47.94,
+    "start_frame": 1436,
+    "end_frame": 1438,
+    "highlight": false
+  },
+  {
+    "spoken": "gaps.",
+    "display": "GAPS.",
+    "start": 47.94,
+    "spoken_end": 48.5,
+    "start_frame": 1438,
+    "end_frame": 1458,
+    "highlight": false
+  },
+  {
+    "spoken": "After",
+    "display": "AFTER",
+    "start": 48.79,
+    "spoken_end": 49.19,
+    "start_frame": 1464,
+    "end_frame": 1476,
+    "highlight": false
+  },
+  {
+    "spoken": "eighteen",
+    "display": "18",
+    "start": 49.19,
+    "spoken_end": 49.69,
+    "start_frame": 1476,
+    "end_frame": 1491,
+    "highlight": true
+  },
+  {
+    "spoken": "launching",
+    "display": "LAUNCHING",
+    "start": 49.69,
+    "spoken_end": 50.11,
+    "start_frame": 1491,
+    "end_frame": 1503,
+    "highlight": true
+  },
+  {
+    "spoken": "operations,",
+    "display": "OPERATIONS,",
+    "start": 50.11,
+    "spoken_end": 50.92,
+    "start_frame": 1503,
+    "end_frame": 1528,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 50.92,
+    "spoken_end": 51.04,
+    "start_frame": 1528,
+    "end_frame": 1531,
+    "highlight": false
+  },
+  {
+    "spoken": "two",
+    "display": "TWO",
+    "start": 51.04,
+    "spoken_end": 51.31,
+    "start_frame": 1531,
+    "end_frame": 1539,
+    "highlight": false
+  },
+  {
+    "spoken": "halves",
+    "display": "HALVES",
+    "start": 51.31,
+    "spoken_end": 51.68,
+    "start_frame": 1539,
+    "end_frame": 1550,
+    "highlight": false
+  },
+  {
+    "spoken": "met",
+    "display": "MET",
+    "start": 51.68,
+    "spoken_end": 51.91,
+    "start_frame": 1550,
+    "end_frame": 1557,
+    "highlight": true
+  },
+  {
+    "spoken": "high",
+    "display": "HIGH",
+    "start": 51.91,
+    "spoken_end": 52.28,
+    "start_frame": 1557,
+    "end_frame": 1568,
+    "highlight": false
+  },
+  {
+    "spoken": "above",
+    "display": "ABOVE",
+    "start": 52.28,
+    "spoken_end": 52.53,
+    "start_frame": 1568,
+    "end_frame": 1576,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 52.53,
+    "spoken_end": 52.61,
+    "start_frame": 1576,
+    "end_frame": 1578,
+    "highlight": false
+  },
+  {
+    "spoken": "Tarn",
+    "display": "TARN",
+    "start": 52.61,
+    "spoken_end": 52.97,
+    "start_frame": 1578,
+    "end_frame": 1589,
+    "highlight": false
+  },
+  {
+    "spoken": "River",
+    "display": "RIVER",
+    "start": 52.97,
+    "spoken_end": 53.29,
+    "start_frame": 1589,
+    "end_frame": 1599,
+    "highlight": false
+  },
+  {
+    "spoken": "in",
+    "display": "IN",
+    "start": 53.29,
+    "spoken_end": 53.45,
+    "start_frame": 1599,
+    "end_frame": 1604,
+    "highlight": false
+  },
+  {
+    "spoken": "May",
+    "display": "MAY",
+    "start": 53.45,
+    "spoken_end": 53.75,
+    "start_frame": 1604,
+    "end_frame": 1612,
+    "highlight": false
+  },
+  {
+    "spoken": "two thousand four.",
+    "display": "2004.",
+    "start": 53.75,
+    "spoken_end": 54.71,
+    "start_frame": 1612,
+    "end_frame": 1644,
+    "highlight": true
+  },
+  {
+    "spoken": "Engineers",
+    "display": "ENGINEERS",
+    "start": 55.01,
+    "spoken_end": 55.5,
+    "start_frame": 1650,
+    "end_frame": 1665,
+    "highlight": true
+  },
+  {
+    "spoken": "raised",
+    "display": "RAISED",
+    "start": 55.5,
+    "spoken_end": 55.86,
+    "start_frame": 1665,
+    "end_frame": 1676,
+    "highlight": true
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 55.86,
+    "spoken_end": 55.94,
+    "start_frame": 1676,
+    "end_frame": 1678,
+    "highlight": false
+  },
+  {
+    "spoken": "remaining",
+    "display": "REMAINING",
+    "start": 55.94,
+    "spoken_end": 56.33,
+    "start_frame": 1678,
+    "end_frame": 1690,
+    "highlight": false
+  },
+  {
+    "spoken": "steel",
+    "display": "STEEL",
+    "start": 56.33,
+    "spoken_end": 56.62,
+    "start_frame": 1690,
+    "end_frame": 1699,
+    "highlight": true
+  },
+  {
+    "spoken": "pylons",
+    "display": "PYLONS",
+    "start": 56.62,
+    "spoken_end": 57.23,
+    "start_frame": 1699,
+    "end_frame": 1717,
+    "highlight": true
+  },
+  {
+    "spoken": "and",
+    "display": "AND",
+    "start": 57.23,
+    "spoken_end": 57.41,
+    "start_frame": 1717,
+    "end_frame": 1722,
+    "highlight": false
+  },
+  {
+    "spoken": "tensioned",
+    "display": "TENSIONED",
+    "start": 57.41,
+    "spoken_end": 57.8,
+    "start_frame": 1722,
+    "end_frame": 1734,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 57.8,
+    "spoken_end": 57.86,
+    "start_frame": 1734,
+    "end_frame": 1736,
+    "highlight": false
+  },
+  {
+    "spoken": "cables.",
+    "display": "CABLES.",
+    "start": 57.86,
+    "spoken_end": 58.51,
+    "start_frame": 1736,
+    "end_frame": 1758,
+    "highlight": true
+  },
+  {
+    "spoken": "By",
+    "display": "BY",
+    "start": 58.79,
+    "spoken_end": 58.91,
+    "start_frame": 1764,
+    "end_frame": 1767,
+    "highlight": false
+  },
+  {
+    "spoken": "December,",
+    "display": "DECEMBER,",
+    "start": 58.91,
+    "spoken_end": 59.67,
+    "start_frame": 1767,
+    "end_frame": 1790,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 59.67,
+    "spoken_end": 59.78,
+    "start_frame": 1790,
+    "end_frame": 1793,
+    "highlight": false
+  },
+  {
+    "spoken": "bridge",
+    "display": "BRIDGE",
+    "start": 59.78,
+    "spoken_end": 60.1,
+    "start_frame": 1793,
+    "end_frame": 1803,
+    "highlight": false
+  },
+  {
+    "spoken": "was",
+    "display": "WAS",
+    "start": 60.1,
+    "spoken_end": 60.25,
+    "start_frame": 1803,
+    "end_frame": 1808,
+    "highlight": false
+  },
+  {
+    "spoken": "complete.",
+    "display": "COMPLETE.",
+    "start": 60.25,
+    "spoken_end": 60.73,
+    "start_frame": 1808,
+    "end_frame": 1825,
+    "highlight": true
+  },
+  {
+    "spoken": "They",
+    "display": "THEY",
+    "start": 61.11,
+    "spoken_end": 61.22,
+    "start_frame": 1833,
+    "end_frame": 1837,
+    "highlight": false
+  },
+  {
+    "spoken": "didn't",
+    "display": "DIDN'T",
+    "start": 61.22,
+    "spoken_end": 61.43,
+    "start_frame": 1837,
+    "end_frame": 1843,
+    "highlight": false
+  },
+  {
+    "spoken": "build",
+    "display": "BUILD",
+    "start": 61.43,
+    "spoken_end": 61.78,
+    "start_frame": 1843,
+    "end_frame": 1853,
+    "highlight": true
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 61.78,
+    "spoken_end": 61.87,
+    "start_frame": 1853,
+    "end_frame": 1856,
+    "highlight": false
+  },
+  {
+    "spoken": "road",
+    "display": "ROAD",
+    "start": 61.87,
+    "spoken_end": 62.09,
+    "start_frame": 1856,
+    "end_frame": 1863,
+    "highlight": false
+  },
+  {
+    "spoken": "in",
+    "display": "IN",
+    "start": 62.09,
+    "spoken_end": 62.18,
+    "start_frame": 1863,
+    "end_frame": 1865,
+    "highlight": false
+  },
+  {
+    "spoken": "the",
+    "display": "THE",
+    "start": 62.18,
+    "spoken_end": 62.24,
+    "start_frame": 1865,
+    "end_frame": 1867,
+    "highlight": false
+  },
+  {
+    "spoken": "sky.",
+    "display": "SKY.",
+    "start": 62.24,
+    "spoken_end": 62.79,
+    "start_frame": 1867,
+    "end_frame": 1886,
+    "highlight": true
+  },
+  {
+    "spoken": "They",
+    "display": "THEY",
+    "start": 63.11,
+    "spoken_end": 63.21,
+    "start_frame": 1893,
+    "end_frame": 1896,
+    "highlight": false
+  },
+  {
+    "spoken": "pushed",
+    "display": "PUSHED",
+    "start": 63.21,
+    "spoken_end": 63.62,
+    "start_frame": 1896,
+    "end_frame": 1909,
+    "highlight": true
+  },
+  {
+    "spoken": "it",
+    "display": "IT",
+    "start": 63.62,
+    "spoken_end": 63.76,
+    "start_frame": 1909,
+    "end_frame": 1913,
+    "highlight": false
+  },
+  {
+    "spoken": "there.",
+    "display": "THERE.",
+    "start": 63.76,
+    "spoken_end": 64.24,
+    "start_frame": 1913,
+    "end_frame": 1929,
+    "highlight": false
+  }
+]

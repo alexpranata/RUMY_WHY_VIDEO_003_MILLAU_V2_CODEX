@@ -3,7 +3,7 @@
   "audio_duration": "64.300000",
   "container_duration": "64.300000",
   "frames": "1929",
-  "caption_events": 32,
+  "caption_events": 168,
   "loudness": {
     "input_i": "-16.23",
     "input_tp": "-1.43",
@@ -16,7 +16,7 @@
     "normalization_type": "dynamic",
     "target_offset": "0.17"
   },
-  "sha256": "7a4255b51f9194bc47c39746376141115bc00d077333e550bb3a1cf853b83d33",
+  "sha256": "b5a557d677c520d72e645be2efe70fdc32ca5b2d22f87e15f1ee0222d1ae8a17",
   "source_files_verified": 30,
   "decode_exit": 0,
   "black_segments": []

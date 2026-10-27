@@ -1,3 +1,8 @@
+<!-- CURRENT HIGHLIGHT EDIT -->
+# Current highlight edit
+
+Latest update retains the simple edit’s source selections and chronology. Captions now appear one token at a time with keyword/number highlighting. Four verified short object tracks drive attention halos/brackets/pointers; no large banners or schematic replacements. Current source intervals and object windows are in timeline_alignment.csv and object_tracks.json. Earlier style directions below are historical.
+
 # Current selection — simple footage/narration/subtitle cut
 
 Latest owner correction removes every added graphic, banner and schematic. Current exact source intervals are in timeline_alignment.csv. Replacements: S05 original for 23–28.4s formwork context; S08 original for 43.8–46.2s temporary support context; S09 original for 48.7–51.8s closure wide; S10 original for 51.8–54.9s closure detail. S07 V2 is cropped at the top to remove pre-existing baked-in title text. Other selected footage and narration timings are retained. No sources are overwritten or generated.
