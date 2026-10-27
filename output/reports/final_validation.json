@@ -6,17 +6,17 @@
   "caption_events": 168,
   "loudness": {
     "input_i": "-16.23",
-    "input_tp": "-1.43",
+    "input_tp": "-1.46",
     "input_lra": "2.60",
     "input_thresh": "-26.61",
-    "output_i": "-16.17",
+    "output_i": "-16.16",
     "output_tp": "-1.50",
     "output_lra": "2.60",
-    "output_thresh": "-26.53",
+    "output_thresh": "-26.52",
     "normalization_type": "dynamic",
-    "target_offset": "0.17"
+    "target_offset": "0.16"
   },
-  "sha256": "b5a557d677c520d72e645be2efe70fdc32ca5b2d22f87e15f1ee0222d1ae8a17",
+  "sha256": "59a49e3d239a39bd1b548c384cac1d5301932d7cda8f39fe486e9b819516d151",
   "source_files_verified": 30,
   "decode_exit": 0,
   "black_segments": []

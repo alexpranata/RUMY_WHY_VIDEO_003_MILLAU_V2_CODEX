@@ -1,0 +1,54 @@
+[
+  {
+    "name": "formwork",
+    "source": "assets/video/S05_v2.mp4",
+    "source_in_s": 1.1,
+    "timeline_in_s": 18.7,
+    "duration_s": 1.1,
+    "processing": "highpass=f=90,lowpass=f=6500,bandreject=f=1500:width_type=o:width=3,afade=t=in:st=0:d=0.10,afade=t=out:st=0.9200000000000002:d=0.18",
+    "gain_db": -8.695,
+    "expected_rms_dbfs": -37.32,
+    "expected_peak_dbfs": -19.0,
+    "provenance": "owner-provided Flow clip, reused in matching scene",
+    "subjective_listening": "pending; processed texture candidate, not certified field recording"
+  },
+  {
+    "name": "steel_assembly",
+    "source": "assets/video/S07_v2.mp4",
+    "source_in_s": 2.25,
+    "timeline_in_s": 35.3,
+    "duration_s": 2.1,
+    "processing": "highpass=f=90,lowpass=f=6500,bandreject=f=1500:width_type=o:width=3,afade=t=in:st=0:d=0.10,afade=t=out:st=1.9200000000000002:d=0.18",
+    "gain_db": -6.44,
+    "expected_rms_dbfs": -36.28,
+    "expected_peak_dbfs": -19.0,
+    "provenance": "owner-provided Flow clip, reused in matching scene",
+    "subjective_listening": "pending; processed texture candidate, not certified field recording"
+  },
+  {
+    "name": "translator",
+    "source": "assets/video/S08_v2.mp4",
+    "source_in_s": 1.0,
+    "timeline_in_s": 39.6,
+    "duration_s": 3.0,
+    "processing": "highpass=f=90,lowpass=f=6500,bandreject=f=1500:width_type=o:width=3,afade=t=in:st=0:d=0.10,afade=t=out:st=2.82:d=0.18",
+    "gain_db": -3.377,
+    "expected_rms_dbfs": -35.81,
+    "expected_peak_dbfs": -19.0,
+    "provenance": "owner-provided Flow clip, reused in matching scene",
+    "subjective_listening": "pending; processed texture candidate, not certified field recording"
+  },
+  {
+    "name": "raising",
+    "source": "assets/video/S11_v2.mp4",
+    "source_in_s": 0.6,
+    "timeline_in_s": 55.2,
+    "duration_s": 2.5,
+    "processing": "highpass=f=90,lowpass=f=6500,bandreject=f=1500:width_type=o:width=3,afade=t=in:st=0:d=0.10,afade=t=out:st=2.32:d=0.18",
+    "gain_db": -5.148,
+    "expected_rms_dbfs": -32.0,
+    "expected_peak_dbfs": -20.37,
+    "provenance": "owner-provided Flow clip, reused in matching scene",
+    "subjective_listening": "pending; processed texture candidate, not certified field recording"
+  }
+]

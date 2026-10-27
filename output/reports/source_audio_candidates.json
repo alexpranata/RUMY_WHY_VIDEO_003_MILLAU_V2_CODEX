@@ -1,0 +1,32 @@
+[
+  {
+    "source": "assets/video/S03_v2.mp4",
+    "rms_dbfs": -24.39,
+    "peak_dbfs": -9.37
+  },
+  {
+    "source": "assets/video/S05_v2.mp4",
+    "rms_dbfs": -25.74,
+    "peak_dbfs": -3.4
+  },
+  {
+    "source": "assets/video/S07_v2.mp4",
+    "rms_dbfs": -26.22,
+    "peak_dbfs": -7.25
+  },
+  {
+    "source": "assets/video/S08_v2.mp4",
+    "rms_dbfs": -28.93,
+    "peak_dbfs": -9.15
+  },
+  {
+    "source": "assets/video/S09_v2.mp4",
+    "rms_dbfs": -26.08,
+    "peak_dbfs": -8.76
+  },
+  {
+    "source": "assets/video/S11_v2.mp4",
+    "rms_dbfs": -21.15,
+    "peak_dbfs": -0.1
+  }
+]

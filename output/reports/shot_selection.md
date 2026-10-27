@@ -1,3 +1,8 @@
+<!-- CURRENT NO-OBJECT-GRAPHICS EDIT -->
+# Current revision
+
+Yellow object overlays are removed; highlighted per-word captions remain. Source selection and video timing are unchanged. Four quiet, processed texture cues from matching owner-provided clips are available in the SFX version, with an otherwise identical no-SFX alternative. Earlier tracking/style notes below are historical.
+
 <!-- CURRENT HIGHLIGHT EDIT -->
 # Current highlight edit
 

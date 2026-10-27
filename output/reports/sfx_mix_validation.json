@@ -1,0 +1,28 @@
+{
+  "video_bitstream_identical": true,
+  "video_hash": "SHA256=3293764961dc3a1f336f7583ecdc60d64cfa32876d4783841423e8fcdfa006de",
+  "decoded_audio_sample_counts": [
+    3084288,
+    3084288
+  ],
+  "cue_difference_measurements": [
+    {
+      "cue": "formwork",
+      "difference_rms_dbfs": -37.33
+    },
+    {
+      "cue": "steel_assembly",
+      "difference_rms_dbfs": -36.27
+    },
+    {
+      "cue": "translator",
+      "difference_rms_dbfs": -35.81
+    },
+    {
+      "cue": "raising",
+      "difference_rms_dbfs": -32.01
+    }
+  ],
+  "difference_outside_cue_windows_dbfs": -65.31,
+  "note": "Waveform difference verifies actual added sound; does not certify subjective suitability."
+}
