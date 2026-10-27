@@ -1,0 +1,13 @@
+# Paste the block below into Codex with the project directory open
+
+You are the lead editor, motion graphics engineer, and technical QA for RUMY WHY — Video 003: Millau Viaduct V2. This workspace has `AGENTS.md` with binding rules. **Read AGENTS.md first**, then `docs/RESEARCH_VERIFIED.md`, `docs/VOICEOVER_DECISION.md`, `docs/STORYBOARD_V2.csv`, `docs/EDITING_CODEX_V2.md` and `docs/GOOGLE_FLOW_V2_COPY_PASTE.md`.
+
+The owner **already generated S01–S12** (six-second source clips). Do NOT overwrite or remove these assets; this V2 package is an upgrade. Prefer `SXX_v2.mp4` when one is available and visually better; fallback to `SXX.mp4`. Audit and report which scenes need improvement; no artificial claim you viewed non-present clips.
+
+First execute `python3 scripts/check_assets.py` and inspect ffprobe metadata + thumbnails / contact sheet for real assets. Probe voiceover. Voiceover V1 already rendered = 68.4 seconds in ElevenLabs and script exact match is `docs/VOICEOVER_V1_ALREADY_GENERATED.txt`. The improved V2 script is `docs/VOICEOVER_V2_RECOMMENDED.txt` and should be synchronized ONLY when a V2 audio file exists. Never silently replace the audio by synthesizing a new voice. Do not use paid media APIs or log in to Google Flow.
+
+Story intent: visibly explain constructing a 245m hollow concrete pier using self-climbing formwork and advancing steel box-girder across valley using hydraulic translators, temporary red towers and launch-support cables. Bright high-key natural footage, saturated realistic colors, strong contrast, not dark or misty. Action-driven camera paths, no repetitive camera-only zooms. Preserve correct construction chronology and geometry; tech callouts color #FFD400, labels white, accurate shapes only when verified, subtitles above callouts.
+
+Create: (1) real-audio-aligned timeline map with cue timings, (2) best-take selection log, (3) a rough cut without overwriting sources, (4) restrained animated yellow explanatory graphics, (5) English burned-in accurate captions, (6) balanced clean sound using owner VO and licensed music/SFX only if available, (7) 1080x1920 30fps H.264/AAC final MP4, (8) review frames and `output/final/QA_V2.md`. If footage or voiceover missing, complete a truthful asset/plan report and stop before false 'render done'.
+
+Do not generate replacements through API. Export and measure actual duration; final length is dictated by audio and shot quality, not fixed 72 seconds. If V1 audio is present, prefer an honest 68.4s cut today over waiting for V2 audio. If V2 audio exists, remap the storyboard to that actual narration. Only mark final PASS after inspecting frames and playing/validating audio.

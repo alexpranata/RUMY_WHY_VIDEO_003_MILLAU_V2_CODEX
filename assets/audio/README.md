@@ -1,0 +1,1 @@
+Put `voiceover.mp3` / `voiceover.wav` (original ElevenLabs take, 68.4 seconds per generation metadata) OR `voiceover_v2.mp3` / `voiceover_v2.wav` (new 172-word V2 script you generate manually in ElevenLabs) here. The pack does not include audio. Never use V2 subtitle text if audio is V1.
