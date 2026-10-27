@@ -1,0 +1,316 @@
+{
+  "generated_utc": "2026-10-27T06:52:09.621141+00:00",
+  "project_root": "/workspace/RUMY_WHY_VIDEO_003_MILLAU_V2_CODEX",
+  "scenes": [
+    {
+      "scene": "S01",
+      "original": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 3796476
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 4637899
+      },
+      "suggested_use": "assets/video/S01_v2.mp4"
+    },
+    {
+      "scene": "S02",
+      "original": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 7353958
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 4324250
+      },
+      "suggested_use": "assets/video/S02_v2.mp4"
+    },
+    {
+      "scene": "S03",
+      "original": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 6486725
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 3898858
+      },
+      "suggested_use": "assets/video/S03_v2.mp4"
+    },
+    {
+      "scene": "S04",
+      "original": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 6125789
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 5822557
+      },
+      "suggested_use": "assets/video/S04_v2.mp4"
+    },
+    {
+      "scene": "S05",
+      "original": {
+        "exists": true,
+        "duration_s": 5.97,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 4172775
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 7576143
+      },
+      "suggested_use": "assets/video/S05_v2.mp4"
+    },
+    {
+      "scene": "S06",
+      "original": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 2675392
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 6925149
+      },
+      "suggested_use": "assets/video/S06_v2.mp4"
+    },
+    {
+      "scene": "S07",
+      "original": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 2267905
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 7716645
+      },
+      "suggested_use": "assets/video/S07_v2.mp4"
+    },
+    {
+      "scene": "S08",
+      "original": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 3150685
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 6.0,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 4679769
+      },
+      "suggested_use": "assets/video/S08_v2.mp4"
+    },
+    {
+      "scene": "S09",
+      "original": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 3089597
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 8.0,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 5709443
+      },
+      "suggested_use": "assets/video/S09_v2.mp4"
+    },
+    {
+      "scene": "S10",
+      "original": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 2600571
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 8.0,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 4792011
+      },
+      "suggested_use": "assets/video/S10_v2.mp4"
+    },
+    {
+      "scene": "S11",
+      "original": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 3633320
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 8.0,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 6886607
+      },
+      "suggested_use": "assets/video/S11_v2.mp4"
+    },
+    {
+      "scene": "S12",
+      "original": {
+        "exists": true,
+        "duration_s": 6.02,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 2805698
+      },
+      "replacement": {
+        "exists": true,
+        "duration_s": 8.0,
+        "width": 720,
+        "height": 1280,
+        "video_codec": "h264",
+        "fps": "24/1",
+        "audio_codec": "aac",
+        "bytes": 6971133
+      },
+      "suggested_use": "assets/video/S12_v2.mp4"
+    }
+  ],
+  "missing_scenes": [],
+  "found_scene_count": 12,
+  "voice_candidates": [
+    {
+      "name": "voiceover_v2.mp3",
+      "exists": true,
+      "duration_s": 64.29,
+      "width": null,
+      "height": null,
+      "video_codec": null,
+      "fps": null,
+      "audio_codec": "mp3",
+      "bytes": 1046184
+    }
+  ],
+  "selected_voice": "voiceover_v2.mp3",
+  "selected_script": "V2",
+  "notes": [
+    "Source files are immutable; this script never writes into assets.",
+    "Having the correct file name is not proof of quality or historical accuracy.",
+    "A V2 audio candidate may be preferred only if it matches the V2 spoken text."
+  ]
+}

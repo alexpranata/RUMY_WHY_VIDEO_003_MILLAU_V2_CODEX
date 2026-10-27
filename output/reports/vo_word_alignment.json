@@ -1,0 +1,982 @@
+[
+  {
+    "word": "how",
+    "start": 0.0,
+    "end": 0.2
+  },
+  {
+    "word": "did",
+    "start": 0.2,
+    "end": 0.37
+  },
+  {
+    "word": "engineers",
+    "start": 0.37,
+    "end": 0.94
+  },
+  {
+    "word": "build",
+    "start": 0.94,
+    "end": 1.17
+  },
+  {
+    "word": "an(2)",
+    "start": 1.17,
+    "end": 1.27
+  },
+  {
+    "word": "eight",
+    "start": 1.27,
+    "end": 1.61
+  },
+  {
+    "word": "hundred(4)",
+    "start": 1.61,
+    "end": 1.96
+  },
+  {
+    "word": "foot",
+    "start": 1.96,
+    "end": 2.27
+  },
+  {
+    "word": "concrete(2)",
+    "start": 2.27,
+    "end": 2.87
+  },
+  {
+    "word": "pier",
+    "start": 2.87,
+    "end": 3.27
+  },
+  {
+    "word": "in",
+    "start": 3.27,
+    "end": 3.38
+  },
+  {
+    "word": "a",
+    "start": 3.38,
+    "end": 3.43
+  },
+  {
+    "word": "valley",
+    "start": 3.43,
+    "end": 4.0
+  },
+  {
+    "word": "<sil>",
+    "start": 4.0,
+    "end": 4.42
+  },
+  {
+    "word": "and(2)",
+    "start": 4.42,
+    "end": 4.54
+  },
+  {
+    "word": "put",
+    "start": 4.54,
+    "end": 4.7
+  },
+  {
+    "word": "a",
+    "start": 4.7,
+    "end": 4.74
+  },
+  {
+    "word": "highway",
+    "start": 4.74,
+    "end": 5.26
+  },
+  {
+    "word": "on",
+    "start": 5.26,
+    "end": 5.39
+  },
+  {
+    "word": "top",
+    "start": 5.39,
+    "end": 5.78
+  },
+  {
+    "word": "<sil>",
+    "start": 5.78,
+    "end": 6.32
+  },
+  {
+    "word": "france's",
+    "start": 6.32,
+    "end": 6.83
+  },
+  {
+    "word": "millau",
+    "start": 6.83,
+    "end": 7.22
+  },
+  {
+    "word": "viaduct",
+    "start": 7.22,
+    "end": 7.84
+  },
+  {
+    "word": "reaches(2)",
+    "start": 7.84,
+    "end": 8.26
+  },
+  {
+    "word": "eleven",
+    "start": 8.26,
+    "end": 8.67
+  },
+  {
+    "word": "hundred(2)",
+    "start": 8.67,
+    "end": 8.98
+  },
+  {
+    "word": "twenty(2)",
+    "start": 8.98,
+    "end": 9.28
+  },
+  {
+    "word": "five",
+    "start": 9.28,
+    "end": 9.57
+  },
+  {
+    "word": "feet",
+    "start": 9.57,
+    "end": 9.96
+  },
+  {
+    "word": "at",
+    "start": 9.96,
+    "end": 10.07
+  },
+  {
+    "word": "its",
+    "start": 10.07,
+    "end": 10.19
+  },
+  {
+    "word": "highest",
+    "start": 10.19,
+    "end": 10.61
+  },
+  {
+    "word": "point",
+    "start": 10.61,
+    "end": 11.03
+  },
+  {
+    "word": "<sil>",
+    "start": 11.03,
+    "end": 11.42
+  },
+  {
+    "word": "first",
+    "start": 11.42,
+    "end": 12.0
+  },
+  {
+    "word": "engineers",
+    "start": 12.0,
+    "end": 12.63
+  },
+  {
+    "word": "drilled",
+    "start": 12.63,
+    "end": 12.98
+  },
+  {
+    "word": "deep",
+    "start": 12.98,
+    "end": 13.21
+  },
+  {
+    "word": "foundation",
+    "start": 13.21,
+    "end": 13.81
+  },
+  {
+    "word": "shafts",
+    "start": 13.81,
+    "end": 14.26
+  },
+  {
+    "word": "into(2)",
+    "start": 14.26,
+    "end": 14.48
+  },
+  {
+    "word": "bedrock",
+    "start": 14.48,
+    "end": 15.06
+  },
+  {
+    "word": "<sil>",
+    "start": 15.06,
+    "end": 15.45
+  },
+  {
+    "word": "then",
+    "start": 15.45,
+    "end": 15.88
+  },
+  {
+    "word": "they",
+    "start": 15.88,
+    "end": 16.02
+  },
+  {
+    "word": "built",
+    "start": 16.02,
+    "end": 16.23
+  },
+  {
+    "word": "seven",
+    "start": 16.23,
+    "end": 16.66
+  },
+  {
+    "word": "hollow",
+    "start": 16.66,
+    "end": 17.08
+  },
+  {
+    "word": "concrete(2)",
+    "start": 17.08,
+    "end": 17.59
+  },
+  {
+    "word": "piers",
+    "start": 17.59,
+    "end": 18.08
+  },
+  {
+    "word": "using",
+    "start": 18.08,
+    "end": 18.35
+  },
+  {
+    "word": "self",
+    "start": 18.35,
+    "end": 18.69
+  },
+  {
+    "word": "climbing",
+    "start": 18.69,
+    "end": 19.09
+  },
+  {
+    "word": "formwork",
+    "start": 19.09,
+    "end": 19.71
+  },
+  {
+    "word": "<sil>",
+    "start": 19.71,
+    "end": 20.01
+  },
+  {
+    "word": "crews",
+    "start": 20.01,
+    "end": 20.35
+  },
+  {
+    "word": "poured",
+    "start": 20.35,
+    "end": 20.67
+  },
+  {
+    "word": "concrete(2)",
+    "start": 20.67,
+    "end": 21.39
+  },
+  {
+    "word": "waited",
+    "start": 21.39,
+    "end": 21.72
+  },
+  {
+    "word": "for",
+    "start": 21.72,
+    "end": 21.9
+  },
+  {
+    "word": "it",
+    "start": 21.9,
+    "end": 21.98
+  },
+  {
+    "word": "to(2)",
+    "start": 21.98,
+    "end": 22.05
+  },
+  {
+    "word": "gain",
+    "start": 22.05,
+    "end": 22.3
+  },
+  {
+    "word": "strength",
+    "start": 22.3,
+    "end": 22.86
+  },
+  {
+    "word": "<sil>",
+    "start": 22.86,
+    "end": 23.04
+  },
+  {
+    "word": "and(2)",
+    "start": 23.04,
+    "end": 23.18
+  },
+  {
+    "word": "raised",
+    "start": 23.18,
+    "end": 23.52
+  },
+  {
+    "word": "the",
+    "start": 23.52,
+    "end": 23.59
+  },
+  {
+    "word": "formwork",
+    "start": 23.59,
+    "end": 24.15
+  },
+  {
+    "word": "roughly",
+    "start": 24.15,
+    "end": 24.44
+  },
+  {
+    "word": "thirteen",
+    "start": 24.44,
+    "end": 25.02
+  },
+  {
+    "word": "feet",
+    "start": 25.02,
+    "end": 25.38
+  },
+  {
+    "word": "for(2)",
+    "start": 25.38,
+    "end": 25.49
+  },
+  {
+    "word": "the",
+    "start": 25.49,
+    "end": 25.57
+  },
+  {
+    "word": "next(2)",
+    "start": 25.57,
+    "end": 25.82
+  },
+  {
+    "word": "section",
+    "start": 25.82,
+    "end": 26.29
+  },
+  {
+    "word": "<sil>",
+    "start": 26.29,
+    "end": 26.67
+  },
+  {
+    "word": "again",
+    "start": 26.67,
+    "end": 27.14
+  },
+  {
+    "word": "<sil>",
+    "start": 27.14,
+    "end": 27.53
+  },
+  {
+    "word": "and(2)",
+    "start": 27.53,
+    "end": 27.71
+  },
+  {
+    "word": "again",
+    "start": 27.71,
+    "end": 28.14
+  },
+  {
+    "word": "<sil>",
+    "start": 28.14,
+    "end": 28.47
+  },
+  {
+    "word": "but",
+    "start": 28.47,
+    "end": 28.63
+  },
+  {
+    "word": "that",
+    "start": 28.63,
+    "end": 28.81
+  },
+  {
+    "word": "only",
+    "start": 28.81,
+    "end": 29.0
+  },
+  {
+    "word": "solved",
+    "start": 29.0,
+    "end": 29.31
+  },
+  {
+    "word": "half",
+    "start": 29.31,
+    "end": 29.68
+  },
+  {
+    "word": "the",
+    "start": 29.68,
+    "end": 29.75
+  },
+  {
+    "word": "problem",
+    "start": 29.75,
+    "end": 30.34
+  },
+  {
+    "word": "<sil>",
+    "start": 30.34,
+    "end": 30.59
+  },
+  {
+    "word": "the",
+    "start": 30.59,
+    "end": 30.66
+  },
+  {
+    "word": "steel",
+    "start": 30.66,
+    "end": 30.99
+  },
+  {
+    "word": "roadway",
+    "start": 30.99,
+    "end": 31.45
+  },
+  {
+    "word": "still",
+    "start": 31.45,
+    "end": 31.82
+  },
+  {
+    "word": "had",
+    "start": 31.82,
+    "end": 31.97
+  },
+  {
+    "word": "to(2)",
+    "start": 31.97,
+    "end": 32.04
+  },
+  {
+    "word": "cross",
+    "start": 32.04,
+    "end": 32.37
+  },
+  {
+    "word": "the",
+    "start": 32.37,
+    "end": 32.46
+  },
+  {
+    "word": "valley",
+    "start": 32.46,
+    "end": 32.93
+  },
+  {
+    "word": "<sil>",
+    "start": 32.93,
+    "end": 33.27
+  },
+  {
+    "word": "so",
+    "start": 33.27,
+    "end": 33.58
+  },
+  {
+    "word": "instead",
+    "start": 33.58,
+    "end": 33.92
+  },
+  {
+    "word": "of",
+    "start": 33.92,
+    "end": 34.0
+  },
+  {
+    "word": "lifting",
+    "start": 34.0,
+    "end": 34.51
+  },
+  {
+    "word": "it",
+    "start": 34.51,
+    "end": 34.57
+  },
+  {
+    "word": "into(2)",
+    "start": 34.57,
+    "end": 34.76
+  },
+  {
+    "word": "place",
+    "start": 34.76,
+    "end": 35.26
+  },
+  {
+    "word": "crews",
+    "start": 35.26,
+    "end": 35.77
+  },
+  {
+    "word": "assembled",
+    "start": 35.77,
+    "end": 36.21
+  },
+  {
+    "word": "the",
+    "start": 36.21,
+    "end": 36.27
+  },
+  {
+    "word": "steel",
+    "start": 36.27,
+    "end": 36.63
+  },
+  {
+    "word": "deck",
+    "start": 36.63,
+    "end": 36.87
+  },
+  {
+    "word": "on(2)",
+    "start": 36.87,
+    "end": 37.05
+  },
+  {
+    "word": "land",
+    "start": 37.05,
+    "end": 37.65
+  },
+  {
+    "word": "on",
+    "start": 37.65,
+    "end": 37.84
+  },
+  {
+    "word": "both",
+    "start": 37.84,
+    "end": 38.13
+  },
+  {
+    "word": "sides",
+    "start": 38.13,
+    "end": 38.74
+  },
+  {
+    "word": "<sil>",
+    "start": 38.74,
+    "end": 39.0
+  },
+  {
+    "word": "sixty",
+    "start": 39.0,
+    "end": 39.47
+  },
+  {
+    "word": "four",
+    "start": 39.47,
+    "end": 39.77
+  },
+  {
+    "word": "hydraulic",
+    "start": 39.77,
+    "end": 40.3
+  },
+  {
+    "word": "translators(2)",
+    "start": 40.3,
+    "end": 41.0
+  },
+  {
+    "word": "pushed",
+    "start": 41.0,
+    "end": 41.37
+  },
+  {
+    "word": "those",
+    "start": 41.37,
+    "end": 41.55
+  },
+  {
+    "word": "sections",
+    "start": 41.55,
+    "end": 42.02
+  },
+  {
+    "word": "forward",
+    "start": 42.02,
+    "end": 42.45
+  },
+  {
+    "word": "in",
+    "start": 42.45,
+    "end": 42.57
+  },
+  {
+    "word": "small",
+    "start": 42.57,
+    "end": 42.93
+  },
+  {
+    "word": "steps",
+    "start": 42.93,
+    "end": 43.52
+  },
+  {
+    "word": "<sil>",
+    "start": 43.52,
+    "end": 43.88
+  },
+  {
+    "word": "temporary",
+    "start": 43.88,
+    "end": 44.41
+  },
+  {
+    "word": "red",
+    "start": 44.41,
+    "end": 44.72
+  },
+  {
+    "word": "towers",
+    "start": 44.72,
+    "end": 45.22
+  },
+  {
+    "word": "and",
+    "start": 45.22,
+    "end": 45.35
+  },
+  {
+    "word": "stay",
+    "start": 45.35,
+    "end": 45.65
+  },
+  {
+    "word": "cables",
+    "start": 45.65,
+    "end": 46.1
+  },
+  {
+    "word": "supported",
+    "start": 46.1,
+    "end": 46.61
+  },
+  {
+    "word": "the(2)",
+    "start": 46.61,
+    "end": 46.71
+  },
+  {
+    "word": "advancing",
+    "start": 46.71,
+    "end": 47.22
+  },
+  {
+    "word": "decks",
+    "start": 47.22,
+    "end": 47.54
+  },
+  {
+    "word": "above",
+    "start": 47.54,
+    "end": 47.86
+  },
+  {
+    "word": "the",
+    "start": 47.86,
+    "end": 47.94
+  },
+  {
+    "word": "gaps",
+    "start": 47.94,
+    "end": 48.5
+  },
+  {
+    "word": "<sil>",
+    "start": 48.5,
+    "end": 48.79
+  },
+  {
+    "word": "after",
+    "start": 48.79,
+    "end": 49.19
+  },
+  {
+    "word": "eighteen",
+    "start": 49.19,
+    "end": 49.69
+  },
+  {
+    "word": "launching",
+    "start": 49.69,
+    "end": 50.11
+  },
+  {
+    "word": "operations",
+    "start": 50.11,
+    "end": 50.92
+  },
+  {
+    "word": "the",
+    "start": 50.92,
+    "end": 51.04
+  },
+  {
+    "word": "two",
+    "start": 51.04,
+    "end": 51.31
+  },
+  {
+    "word": "halves",
+    "start": 51.31,
+    "end": 51.68
+  },
+  {
+    "word": "met",
+    "start": 51.68,
+    "end": 51.91
+  },
+  {
+    "word": "high",
+    "start": 51.91,
+    "end": 52.28
+  },
+  {
+    "word": "above",
+    "start": 52.28,
+    "end": 52.53
+  },
+  {
+    "word": "the",
+    "start": 52.53,
+    "end": 52.61
+  },
+  {
+    "word": "tarn",
+    "start": 52.61,
+    "end": 52.97
+  },
+  {
+    "word": "river",
+    "start": 52.97,
+    "end": 53.29
+  },
+  {
+    "word": "in",
+    "start": 53.29,
+    "end": 53.45
+  },
+  {
+    "word": "may",
+    "start": 53.45,
+    "end": 53.75
+  },
+  {
+    "word": "two",
+    "start": 53.75,
+    "end": 53.97
+  },
+  {
+    "word": "thousand(2)",
+    "start": 53.97,
+    "end": 54.31
+  },
+  {
+    "word": "four",
+    "start": 54.31,
+    "end": 54.71
+  },
+  {
+    "word": "<sil>",
+    "start": 54.71,
+    "end": 55.01
+  },
+  {
+    "word": "engineers",
+    "start": 55.01,
+    "end": 55.5
+  },
+  {
+    "word": "raised",
+    "start": 55.5,
+    "end": 55.86
+  },
+  {
+    "word": "the",
+    "start": 55.86,
+    "end": 55.94
+  },
+  {
+    "word": "remaining",
+    "start": 55.94,
+    "end": 56.33
+  },
+  {
+    "word": "steel",
+    "start": 56.33,
+    "end": 56.62
+  },
+  {
+    "word": "pylons",
+    "start": 56.62,
+    "end": 57.23
+  },
+  {
+    "word": "and(2)",
+    "start": 57.23,
+    "end": 57.41
+  },
+  {
+    "word": "tensioned",
+    "start": 57.41,
+    "end": 57.8
+  },
+  {
+    "word": "the",
+    "start": 57.8,
+    "end": 57.86
+  },
+  {
+    "word": "cables",
+    "start": 57.86,
+    "end": 58.51
+  },
+  {
+    "word": "<sil>",
+    "start": 58.51,
+    "end": 58.79
+  },
+  {
+    "word": "by",
+    "start": 58.79,
+    "end": 58.91
+  },
+  {
+    "word": "december",
+    "start": 58.91,
+    "end": 59.67
+  },
+  {
+    "word": "the",
+    "start": 59.67,
+    "end": 59.78
+  },
+  {
+    "word": "bridge",
+    "start": 59.78,
+    "end": 60.1
+  },
+  {
+    "word": "was(2)",
+    "start": 60.1,
+    "end": 60.25
+  },
+  {
+    "word": "complete",
+    "start": 60.25,
+    "end": 60.73
+  },
+  {
+    "word": "<sil>",
+    "start": 60.73,
+    "end": 61.11
+  },
+  {
+    "word": "they",
+    "start": 61.11,
+    "end": 61.22
+  },
+  {
+    "word": "didn't(3)",
+    "start": 61.22,
+    "end": 61.43
+  },
+  {
+    "word": "build",
+    "start": 61.43,
+    "end": 61.78
+  },
+  {
+    "word": "the",
+    "start": 61.78,
+    "end": 61.87
+  },
+  {
+    "word": "road",
+    "start": 61.87,
+    "end": 62.09
+  },
+  {
+    "word": "in",
+    "start": 62.09,
+    "end": 62.18
+  },
+  {
+    "word": "the",
+    "start": 62.18,
+    "end": 62.24
+  },
+  {
+    "word": "sky",
+    "start": 62.24,
+    "end": 62.79
+  },
+  {
+    "word": "<sil>",
+    "start": 62.79,
+    "end": 63.11
+  },
+  {
+    "word": "they",
+    "start": 63.11,
+    "end": 63.21
+  },
+  {
+    "word": "pushed",
+    "start": 63.21,
+    "end": 63.62
+  },
+  {
+    "word": "it",
+    "start": 63.62,
+    "end": 63.76
+  },
+  {
+    "word": "there",
+    "start": 63.76,
+    "end": 64.24
+  },
+  {
+    "word": "</s>",
+    "start": 64.23,
+    "end": 64.24
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "video_duration": "64.300000",
+  "audio_duration": "64.300000",
+  "container_duration": "64.300000",
+  "frames": "1929",
+  "caption_events": 32,
+  "loudness": {
+    "input_i": "-16.23",
+    "input_tp": "-1.43",
+    "input_lra": "2.60",
+    "input_thresh": "-26.61",
+    "output_i": "-16.17",
+    "output_tp": "-1.50",
+    "output_lra": "2.60",
+    "output_thresh": "-26.53",
+    "normalization_type": "dynamic",
+    "target_offset": "0.17"
+  },
+  "sha256": "65ba5c5cfd8d4198303933de440b63fc3419cc9cc41128431ce67bed27431e7b",
+  "source_files_verified": 30,
+  "decode_exit": 0,
+  "black_segments": []
+}
